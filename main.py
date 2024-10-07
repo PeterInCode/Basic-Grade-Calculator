@@ -18,7 +18,7 @@ for i in range(num_grades):
 
 average_grade = sum(grades) / len(grades)
 dds
-# Next, we'll print out the average.
+# Next, we'll print out the average.ds
 print(f"Your average grade is: {average_grade}")
 
 # Based odsan the average, we can decide if the student has passed or failed.
