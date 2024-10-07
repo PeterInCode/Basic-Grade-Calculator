@@ -27,4 +27,4 @@ print(f"Your average grade is: {average_grade}")
 if average_grade >= 50:
     print("Congratulations, you passed")dsfds
 else:
-    print("Sorry, you failed")
+    print("Sorry, you failed")ffds
