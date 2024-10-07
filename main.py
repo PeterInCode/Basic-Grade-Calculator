@@ -22,7 +22,7 @@ average_grade = sum(grades) / len(grades)
 print(f"Your average grade is: {average_grade}")
 
 # Based on the average, we can decide if the student has passed or failed.
-# Let's assume that an average of 60 or more is a pass.
+# Let's assume that an average of 60 or more is a pass. ds
 
 if average_grade >= 50:
     print("Congratulations, you passed")
