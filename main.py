@@ -17,7 +17,7 @@ for i in range(num_grades):
 # The sum() function adds up all the values in the list, and len() gives the total number of items in the list.
 
 average_grade = sum(grades) / len(grades)
-
+dds
 # Next, we'll print out the average.
 print(f"Your average grade is: {average_grade}")
 
