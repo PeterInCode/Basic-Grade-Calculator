@@ -25,6 +25,6 @@ print(f"Your average grade is: {average_grade}")
 # Let's assume that an average of 60 or more is a pass. dssa
 
 if average_grade >= 50:
-    print("Congratulations, you passed")
+    print("Congratulations, you passed")dsfds
 else:
     print("Sorry, you failed")
